@@ -1,57 +1,43 @@
 ---
 layout: default
-title: Rodrigo Lugo - Data Analyst Portfolio
+title: Rodrigo Lugo – Data Analyst Portfolio
 ---
 
-# Rodrigo Lugo
+# 👋 Hola, soy Rodrigo Lugo
 
 **Data Analyst | Economics | Python | SQL | Tableau**
 
-Welcome to my portfolio. I’m a data analyst passionate about uncovering insights through data, with a background in finance and operations. Here you'll find a selection of my projects built during my journey in the Tripleten bootcamp.
+Estoy en transición desde el área financiera hacia el análisis de datos. En esta página encontrarás una selección de proyectos que realicé durante el bootcamp de Tripleten, enfocados en resolver problemas reales con datos.
 
 ---
 
-## 📊 Projects
+## 📊 Proyectos Destacados
 
-### 🚕 [Taxi Trip Analysis in Chicago](https://github.com/rlugog/taxi-trip-project)
-Analyzed taxi trips in November 2017 to explore travel durations and patterns. Performed hypothesis testing to assess the impact of weather conditions on trip durations using Python and SQL.
+### 🚕 [Taxi Trip Analysis – Zuber (Sprint 10)](https://github.com/rlugog/taxi-trip-project)
+Exploración de viajes desde el centro de Chicago hasta el aeropuerto, con prueba de hipótesis sobre la duración en días lluviosos.
 
-**Skills:** Data Cleaning, Hypothesis Testing, SQL, Pandas, Matplotlib
+### 🧪 [A/B Test Analysis – E-commerce (Sprint 10)](https://github.com/rlugog/ab-test-analysis)
+Análisis de hipótesis de marketing y test A/B. Se evaluaron métricas clave como conversión, ingresos y tamaño de pedido promedio.
 
----
+### 🏋️‍♂️ [Gym Churn Prediction (Sprint 13)](https://github.com/rlugog/gym-churn-prediction)
+Modelos de clasificación para predecir cancelación de clientes de gimnasio, con segmentación mediante clustering.
 
-### 🎮 [Video Game Sales Strategy](https://github.com/rlugog/video-game-analysis)
-Explored historical video game sales data to recommend a marketing strategy for 2017. Analyzed platforms, genres, ESRB ratings, and user reviews.
+### 🚖 [Taxi & Weather – Chicago (Sprint 8)](https://github.com/rlugog/chicago-taxi-analysis)
+EDA y prueba estadística para evaluar si la lluvia afecta los tiempos de viaje en taxi en Chicago.
 
-**Skills:** Exploratory Data Analysis, Visualization, Plotly, Python, Pandas
+### 👥 [Customer Retention – Cohort Analysis (Sprint 9)](https://github.com/rlugog/Customer-Retention-Cohort-Analysis)
+Análisis de cohortes para estudiar patrones de retención de clientes a lo largo del tiempo.
 
----
-
-### 🛒 [Online Store A/B Test Analysis](https://github.com/rlugog/ab-test-analysis)
-Evaluated the performance of a new checkout process using A/B test data. Prioritized hypotheses using ICE and RICE frameworks, and analyzed conversion rates, order size, and statistical significance.
-
-**Skills:** A/B Testing, Statistics, Plotly, Pandas, Business Analysis
-
----
-
-### 📶 [Telecom Operator Performance Audit](https://github.com/rlugog/telecom-operator-analysis)
-Identified ineffective operators in a call center based on KPIs like missed calls, response time, and internal vs external call ratios. Built dashboards and drew business conclusions.
-
-**Skills:** SQL, Hypothesis Testing, Visualization, Business KPIs
+### 🎧 [El Poder de la Música – Proyecto personal](https://github.com/rlugog/El-poder-de-la-Musica)
+Proyecto sobre el impacto emocional de la música, visualizado y estructurado como storytelling de datos.
 
 ---
 
-### 📦 [Customer Retention & Cohort Analysis](https://github.com/rlugog/cohort-retention-analysis)
-Performed cohort-based analysis of user retention over time for an online grocery platform. Built retention curves and identified patterns to optimize user experience.
+## 📬 Contacto
 
-**Skills:** Pandas, Cohort Analysis, Data Visualization
-
----
-
-## 📫 Connect
-
-- [GitHub](https://github.com/rlugog)
-- [LinkedIn](https://www.linkedin.com/in/rodrigolugo-dataanalyst)
-- [Email](mailto:rlugog96@gmail.com)
+- 📧 [rlugog96@gmail.com](mailto:rlugog96@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rodrigolugo-dataanalyst)
 
 ---
+
+Gracias por visitar mi portafolio. ¡Estoy abierto a colaboraciones y nuevas oportunidades!
