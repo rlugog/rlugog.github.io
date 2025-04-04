@@ -1,11 +1,15 @@
 ---
 layout: default
-title: Rodrigo Lugo – Data Analyst Portfolio
+title: Rodrigo Lugo – Portafolio de Análisis de Datos
 ---
+
+<p align="right">
+  🌐 <a href="/en">English version</a>
+</p>
 
 # 👋 Hola, soy Rodrigo Lugo
 
-**Data Analyst | Economics | Python | SQL | Tableau**
+**Data Analyst | Economía | Python | SQL | Tableau**
 
 Estoy en transición desde el área financiera hacia el análisis de datos. En esta página encontrarás una selección de proyectos que realicé durante el bootcamp de Tripleten, enfocados en resolver problemas reales con datos.
 
@@ -13,23 +17,23 @@ Estoy en transición desde el área financiera hacia el análisis de datos. En e
 
 ## 📊 Proyectos Destacados
 
-### 🚕 [Taxi Trip Analysis – Zuber (Sprint 10)](https://github.com/rlugog/taxi-trip-project)
+### 🚕 [Análisis de Taxi – Zuber](https://github.com/rlugog/taxi-trip-project)
 Exploración de viajes desde el centro de Chicago hasta el aeropuerto, con prueba de hipótesis sobre la duración en días lluviosos.
 
-### 🧪 [A/B Test Analysis – E-commerce (Sprint 10)](https://github.com/rlugog/ab-test-analysis)
-Análisis de hipótesis de marketing y test A/B. Se evaluaron métricas clave como conversión, ingresos y tamaño de pedido promedio.
+### 🧪 [Análisis A/B – E-commerce](https://github.com/rlugog/ab-test-analysis)
+Priorización de hipótesis de negocio y análisis estadístico de un experimento A/B para evaluar cambios en conversión e ingresos.
 
-### 🏋️‍♂️ [Gym Churn Prediction (Sprint 13)](https://github.com/rlugog/gym-churn-prediction)
-Modelos de clasificación para predecir cancelación de clientes de gimnasio, con segmentación mediante clustering.
+### 🏋️‍♂️ [Predicción de Cancelación en Gimnasio](https://github.com/rlugog/gym-churn-prediction)
+Modelos de machine learning para predecir cancelaciones y segmentar clientes de un gimnasio ficticio.
 
-### 🚖 [Taxi & Weather – Chicago (Sprint 8)](https://github.com/rlugog/chicago-taxi-analysis)
-EDA y prueba estadística para evaluar si la lluvia afecta los tiempos de viaje en taxi en Chicago.
+### 🚖 [Impacto del Clima en Taxis – Chicago](https://github.com/rlugog/chicago-taxi-analysis)
+EDA y prueba de hipótesis sobre la duración de trayectos desde el Loop hasta el aeropuerto O'Hare en días lluviosos.
 
-### 👥 [Customer Retention – Cohort Analysis (Sprint 9)](https://github.com/rlugog/Customer-Retention-Cohort-Analysis)
-Análisis de cohortes para estudiar patrones de retención de clientes a lo largo del tiempo.
+### 👥 [Análisis de Retención – Cohortes](https://github.com/rlugog/Customer-Retention-Cohort-Analysis)
+Evaluación de retención de usuarios por cohorte en un e-commerce. Visualización de patrones de abandono por mes.
 
 ### 🎧 [El Poder de la Música – Proyecto personal](https://github.com/rlugog/El-poder-de-la-Musica)
-Proyecto sobre el impacto emocional de la música, visualizado y estructurado como storytelling de datos.
+Exploración sobre el impacto emocional de la música, estructurado como narrativa de datos.
 
 ---
 
@@ -39,5 +43,3 @@ Proyecto sobre el impacto emocional de la música, visualizado y estructurado co
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rodrigolugo-dataanalyst)
 
 ---
-
-Gracias por visitar mi portafolio. ¡Estoy abierto a colaboraciones y nuevas oportunidades!
