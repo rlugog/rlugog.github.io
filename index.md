@@ -9,37 +9,42 @@ title: Rodrigo Lugo – Portafolio de Análisis de Datos
 
 # 👋 Hola, soy Rodrigo Lugo
 
-**Data Analyst | Economía | Python | SQL | Tableau**
+**Data Analyst | Economía | Python | SQL | Tableau | Visualización de Datos**
 
-Estoy en transición desde el área financiera hacia el análisis de datos. En esta página encontrarás una selección de proyectos que realicé durante el bootcamp de Tripleten, enfocados en resolver problemas reales con datos.
+Soy economista con experiencia en operaciones financieras y transición hacia el análisis de datos. Mi enfoque es convertir datos en decisiones mediante análisis estadístico, visualizaciones claras y narrativas comprensibles. Aquí encontrarás proyectos representativos que he desarrollado durante mi formación y práctica profesional.
 
 ---
 
-## 📊 Proyectos Destacados
+## 🚀 Proyectos Destacados
 
-### 🚕 [Análisis de Taxi – Zuber](https://github.com/rlugog/taxi-trip-project)
-Exploración de viajes desde el centro de Chicago hasta el aeropuerto, con prueba de hipótesis sobre la duración en días lluviosos.
+### ⚽ [Dashboard Premier League](https://premier-league-dashboard.onrender.com/)
+Aplicación interactiva desarrollada con Streamlit para visualizar la eficiencia ofensiva y defensiva de equipos de la Premier League. Incluye despliegue en Render y procesamiento de datos con pandas.
+
+### 🚕 [Análisis de Viajes en Taxi – Zuber](https://github.com/rlugog/taxi-trip-project)
+EDA y prueba de hipótesis sobre duración de trayectos en días lluviosos en Chicago. Visualización de barrios con más viajes y comparación de empresas de taxi.
 
 ### 🧪 [Análisis A/B – E-commerce](https://github.com/rlugog/ab-test-analysis)
-Priorización de hipótesis de negocio y análisis estadístico de un experimento A/B para evaluar cambios en conversión e ingresos.
+Evaluación de una prueba A/B con análisis de ingresos acumulados, tasa de conversión y tamaño promedio de pedidos. Priorización de hipótesis con RICE y visualización en gráficos interactivos.
 
-### 🏋️‍♂️ [Predicción de Cancelación en Gimnasio](https://github.com/rlugog/gym-churn-prediction)
-Modelos de machine learning para predecir cancelaciones y segmentar clientes de un gimnasio ficticio.
+### 🏋️ [Predicción de Cancelación de Membresías](https://github.com/rlugog/gym-churn-prediction)
+Modelado de abandono de clientes en un gimnasio ficticio utilizando regresión logística y árboles de decisión. Incluye análisis exploratorio y métricas de desempeño.
 
-### 🚖 [Impacto del Clima en Taxis – Chicago](https://github.com/rlugog/chicago-taxi-analysis)
-EDA y prueba de hipótesis sobre la duración de trayectos desde el Loop hasta el aeropuerto O'Hare en días lluviosos.
+### 👥 [Análisis de Retención por Cohortes](https://github.com/rlugog/Customer-Retention-Cohort-Analysis)
+Evaluación de comportamiento de usuarios a lo largo del tiempo por cohortes mensuales. Visualización de patrones de retención para estrategias de marketing.
 
-### 👥 [Análisis de Retención – Cohortes](https://github.com/rlugog/Customer-Retention-Cohort-Analysis)
-Evaluación de retención de usuarios por cohorte en un e-commerce. Visualización de patrones de abandono por mes.
-
-### 🎧 [El Poder de la Música – Proyecto personal](https://github.com/rlugog/El-poder-de-la-Musica)
-Exploración sobre el impacto emocional de la música, estructurado como narrativa de datos.
+### 🎧 [El Poder de la Música – Proyecto Narrativo](https://github.com/rlugog/El-poder-de-la-Musica)
+Proyecto personal que explora el impacto emocional de la música a través de datos. Combina storytelling, visualización y análisis semántico.
 
 ---
 
 ## 📬 Contacto
 
-- 📧 [rlugog96@gmail.com](mailto:rlugog96@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rodrigolugo-dataanalyst)
+- 📧 Email: [rlugog96@gmail.com](mailto:rlugog96@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/rodrigolugo-dataanalyst](https://www.linkedin.com/in/rodrigolugo-dataanalyst)  
+- 🐙 GitHub: [github.com/rlugog](https://github.com/rlugog)
 
 ---
+
+_Gracias por visitar mi portafolio. Estoy abierto a colaboraciones y nuevas oportunidades._
+
+
